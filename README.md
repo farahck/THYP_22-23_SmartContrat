@@ -1,5 +1,5 @@
 # THYP_22-23_SmartContrat
-Sujet du smart contract : stockage des dossiers medicaux 
+Smart contract : stockage des dossiers medicaux 
 Ce que le medecin peut faire : 
 -inscription du medecin avec son adresse 
 -Ajout d'un patient 
